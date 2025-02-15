@@ -40,7 +40,7 @@
 
 - I’m currently studying Common Core at 42 Luanda, after successfully completing the Piscine.
 - I’m interested in `Machine Learning`, `Anime/Manga`.
-- My other areas of focus are `Cybersecurity`, `Project Management` and `Data Analysis`.
+- My other areas of focus are `Cybersecurity`, `DevOps` and `Machine Learning`.
 
 ## Skills
 
