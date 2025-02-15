@@ -10,6 +10,12 @@
   </a>
   &nbsp;
   <a href="https://github.com/rpambo/42-common-core">
+    <img src="https://github.com/rpambo/rpambo/blob/main/42/banners/profile/30_Days_of_Code.png" width="265"/>
+  </a>
+  &nbsp;
+  </a>
+  &nbsp;
+  <a href="https://github.com/rpambo/cpp">
     <img src="https://github.com/rpambo/rpambo/blob/main/42/banners/profile/github_profile_banner_round_common_core_v1.png" width="265"/>
   </a>
 </p>
