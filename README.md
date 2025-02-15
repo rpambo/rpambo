@@ -1,4 +1,4 @@
-## The Good, the Bad and the Ugly
+## The Struggle, the Growth, and the Success
 
 <p float="left" align="center">
   <a href="https://github.com/rpambo/42-resources">
