@@ -1,8 +1,8 @@
 ## The Good, the Bad and the Ugly
 
 <p float="left" align="center">
-  <a href="https://github.com/RafaelKitoco/42-resources">
-    <img src="https://github.com/RafaelKitoco/RafaelKitoco/blob/main/42/banners/profile/github_profile_banner_round_resources_v1.png" width="265"/>
+  <a href="https://github.com/rpambo/42-resources">
+    <img src="https://github.com/rpambo/rpambo/blob/main/42/banners/profile/github_profile_banner_round_resources_v1.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/RafaelKitoco/42-piscine">
