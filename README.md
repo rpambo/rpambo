@@ -9,13 +9,13 @@
     <img src="https://github.com/rpambo/rpambo/blob/main/42/banners/profile/github_profile_banner_round_piscine_v1.png" width="265"/>
   </a>
   &nbsp;
-  <a href="https://github.com/rpambo/42-common-core">
+  <a href="https://github.com/rpambo/30-day-of-code">
     <img src="https://github.com/rpambo/rpambo/blob/main/42/banners/profile/github_profile_banner_round_cpp.png" width="265"/>
   </a>
   &nbsp;
   </a>
   &nbsp;
-  <a href="https://github.com/rpambo/cpp">
+  <a href="https://github.com/rpambo/42-common-core">
     <img src="https://github.com/rpambo/rpambo/blob/main/42/banners/profile/github_profile_banner_round_common_core_v1.png" width="265"/>
   </a>
 </p>
