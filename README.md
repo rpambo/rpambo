@@ -10,7 +10,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/rpambo/42-common-core">
-    <img src="https://github.com/rpambo/rpambo/blob/main/42/banners/cpp/30_Days_of_Code.png" width="265"/>
+    <img src="https://github.com/rpambo/rpambo/blob/main/42/banners/profile/github_profile_banner_round_cpp.png" width="265"/>
   </a>
   &nbsp;
   </a>
