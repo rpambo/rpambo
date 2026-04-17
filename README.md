@@ -20,6 +20,7 @@ I enjoy learning by building real projects that solve real problems, especially 
 - Frontend Development (Angular, TypeScript, Uikit CSS)
 - Backend & APIs (Go)
 - Git & GitHub
+- DevOPS
 - Problem Solving & Self-learning
 
 ---
