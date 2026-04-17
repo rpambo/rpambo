@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rafael
+# 👋 Hi, I'm Rafael Kitoco Pambo
 
 I’m a self-taught developer from Angola focused on building practical technology solutions and growing in the fields of software development, AI, and Web3.
 
