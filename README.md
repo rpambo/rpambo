@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rafael Kitoco Pambo
+# Hi, I'm Rafael Kitoco Pambo
 
 I’m a self-taught developer from Angola focused on building practical technology solutions and growing in the fields of software development, AI, and Web3.
 
@@ -6,7 +6,7 @@ I enjoy learning by building real projects that solve real problems, especially 
 
 ---
 
-## 🚀 What I’m working on
+## What I’m working on
 
 - 🧠 Building projects around mental health and productivity tools
 - 💻 Developing web applications and improving my software engineering skills
@@ -17,11 +17,10 @@ I enjoy learning by building real projects that solve real problems, especially 
 
 ## 🛠️ Skills
 
-- Frontend Development (React, TypeScript, Tailwind CSS)
-- Basic Backend & APIs
+- Frontend Development (Angular, TypeScript, Uikit CSS)
+- Backend & APIs (Go)
 - Git & GitHub
 - Problem Solving & Self-learning
-- Exploring Web3 / Blockchain concepts
 
 ---
 
@@ -31,19 +30,6 @@ I enjoy learning by building real projects that solve real problems, especially 
 - Contributing to open source projects
 - Building impactful real-world applications
 - Preparing for global opportunities in tech
-
----
-
-## 🌍 Vision
-
-I aim to use technology to create meaningful impact in Africa, especially by making education, productivity, and mental health tools more accessible.
-
----
-
-## 📫 Connect with me
-
-- LinkedIn: [your link]
-- GitHub: [your link]
 
 ---
 
