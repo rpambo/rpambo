@@ -26,15 +26,8 @@ I enjoy learning by building real projects that solve real problems, especially 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
----
-
-## 🌱 Current Focus
-
-- Improving software engineering fundamentals
-- Contributing to open source projects
-- Building impactful real-world applications
-- Preparing for global opportunities in tech
-
----
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 
 > “Small steps, consistent progress.”
